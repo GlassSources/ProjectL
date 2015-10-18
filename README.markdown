@@ -1,12 +1,12 @@
-Lightstone
+ProjectL
 ==========
 
-![Lightstone Logo](https://github.com/grahamedgecombe/lightstone/raw/master/etc/logo/logo-small.png)
+![ProjectL Logo](http://www.tecnoyouth.it/wp-content/uploads/2014/11/Android-Lollipop.jpg)
 
 Introduction
 ------------
 
-Lightstone is an open-source implementation of the
+Lollipop is an open-source implementation of the
 [Minecraft](http://minecraft.net) server software written in Java.
 
 The official server software has some shortcomings such as the use of threaded,
@@ -16,7 +16,7 @@ lightweight and high-performance alternative.
 Building
 --------
 
-Lightstone can be built with the
+Lollipop can be built with the
 [Java Development Kit](http://oracle.com/technetwork/java/javase/downloads) and
 [Apache Ant](http://ant.apache.org). [Apache Ivy](http://ant.apache.org/ivy) is
 also used for dependency management.
